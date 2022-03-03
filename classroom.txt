@@ -1,7 +1,9 @@
 March 2022 bootcamp students:
 
+** Only accepting students living in Europe because of timezone
 
-Billy
-Jessica
-Oerd
+ - Billy
+ - Jessica
+ - Oerd
+
 More incoming...
